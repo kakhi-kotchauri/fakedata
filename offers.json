@@ -1,0 +1,63 @@
+{
+    
+    
+    "offers": [
+        {
+            "id": 1,
+            "date": "10 ივლისი, 2020",
+            "description": "25 თებერვლიდან 10 მარტის ჩათვლით, შეიძინეთ ჰუბერტის ნებისმიერი პროდუქტი 25%-იანი ფასდაკლებით!",
+            "src": "https://raw.githubusercontent.com/kakhi-kotchauri/fakedata.github.io/main/pics/products-pharmacy-17304111.jpg"
+        },
+
+        {
+            "id": 2,
+            "date": "10 ივლისი, 2020",
+            "description": "24 - 31 ივლისს, ფრანგული ბრენდი ნორევა გთავაზობთ 30%-50% ფასდაკლებას სრულ ასორტიმენტზე",
+            "src": "https://github.com/kakhi-kotchauri/fakedata.github.io/blob/main/pics/1.png?raw=true"
+        },
+
+        {
+            "id": 3,
+            "date": "10 ივლისი, 2020",
+            "description": "თურქული წარმოების ბავშვის საფენები პიკოლო განახლებული დიზაინითა და ხელმისაწვდომი ფასით",
+             "src": "https://github.com/kakhi-kotchauri/fakedata.github.io/blob/main/pics/3.png?raw=true"
+        },
+
+        {
+            "id": 4,
+            "date": "10 ივლისი, 2020",
+            "description": "ეწვიეთ ავერსს და ისარგებლეთ თქვენს რჩეულ ბრენდზე საუკეთესო შემოთავაზებით!",
+            "src": "https://github.com/kakhi-kotchauri/fakedata.github.io/blob/main/pics/4.png?raw=true"
+        },
+
+        {
+            "id": 5,
+            "date": "10 ივლისი, 2020",
+            "description": "1 მარტიდან 10 მარტის ჩათვლით, სთრეითის შერჩეულ ასორტიმენტზე სპეციალური ფასი ვრცელდება!",
+             "src": "https://github.com/kakhi-kotchauri/fakedata.github.io/blob/main/pics/5.jpg?raw=true"
+        },
+
+        {
+            "id": 6,
+            "date": "10 ივლისი, 2020",
+            "description": "25 თებერვლიდან 8 მარტის ჩათვლით, შეიძინეთ მუსტელას სრული ასორტიმენტი 25%-იანი ფასდაკლებით!",
+             "src": "https://github.com/kakhi-kotchauri/fakedata.github.io/blob/main/pics/7.jpg?raw=true"
+        },
+
+        {
+            "id": 7,
+            "date": "10 ივლისი, 2020",
+            "description": "1 მარტიდან 10 მარტის ჩათვლით, შეიძინეთ პასტა დელ კაპიტანოს რჩეული პროდუქცია განსაკუთრებულ ფასად!",
+             "src": "https://github.com/kakhi-kotchauri/fakedata.github.io/blob/main/pics/2.jpg?raw=true"
+        },
+
+        {
+            "id": 8,
+            "date": "10 ივლისი, 2020",
+            "description": "25 თებერვლიდან 8 მარტის ჩათვლით, ისარგებლეთ 20%-იანი ფასდაკლებით ავენტის სრულ ასორტიმენტზე!",
+            "src": "https://github.com/kakhi-kotchauri/fakedata.github.io/blob/main/pics/6.jpg?raw=true"
+        }
+    ]
+    
+    
+}
